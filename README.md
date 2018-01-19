@@ -24,6 +24,7 @@ Se você quer contribuir, por favor leia [Isto](CONTRIBUTING.md)
 ## Programação
 
 ### Analise
+* [Perl Brasil](https://t.me/perlbrasil) - Grupo Perl Brasil
 * [ANÁLISE DE SISTEMAS - II](https://chat.whatsapp.com/K4d2r7zu4p0C89PD89M2hU) — Analise de Sistemas
 * [UML](https://chat.whatsapp.com/7LLQf3XA3it16DdigFG4e2)
 
